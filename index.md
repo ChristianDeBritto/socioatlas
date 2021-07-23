@@ -2,7 +2,7 @@
 
 Testando aqui para ver se funciona!
 
-[[Só testando]] Veja aqui.
+ Veja aqui  .
 
 You can use the [editor on GitHub](https://github.com/ChristianDeBritto/socioatlas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
