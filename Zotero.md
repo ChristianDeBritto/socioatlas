@@ -72,3 +72,4 @@ Enfim, o Zotero apresenta uma interface bem simples
  e que consegue reunir de forma bem clara todas as informações bibliográficas necessárias. Também é
 possível incluir várias bibliotecas, com pastas e subpastas, inserir diversos marcadores, até mesmo destacando alguns com cores específicas, trazendo organização e facilidade de acesso até mesmo para grandes coleções6.
 
+
