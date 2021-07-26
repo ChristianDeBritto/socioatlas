@@ -59,12 +59,7 @@ como título da referência, seu tipo, número de páginas, data de publicação
 na web, etc. Além disso, é possível ter acesso às notas pessoais, marcadores e itens
 relacionados. 
 
+![image-20210725225244768](image-20210725225244768.png)
 
-
-Enfim, o Zotero apresenta uma interface bem simples 
-
-[^5 ]: Caso haja alguma dúvida, no menu que fica na parte superior da janela há uma opção de ’Ajuda’, ao clicá-la o usuário é direcionado a uma página *on-line* com tutoriais em diversas línguas ensinando a utilizar a ferramenta.
-
- e que consegue reunir de forma bem clara todas as informações bibliográficas necessárias. Também é
-possível incluir várias bibliotecas, com pastas e subpastas, inserir diversos marcadores, até mesmo destacando alguns com cores específicas, trazendo organização e facilidade de acesso até mesmo para grandes coleções6.
+Enfim, o Zotero apresenta uma interface bem simples  e que consegue reunir de forma bem clara todas as informações bibliográficas necessárias. Também é possível incluir várias bibliotecas, com pastas e subpastas, inserir diversos marcadores, até mesmo destacando alguns com cores específicas, trazendo organização e facilidade de acesso até mesmo para grandes coleções6.
 
