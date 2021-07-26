@@ -2,11 +2,19 @@
 
 Testando aqui para ver se funciona!
 
+<<<<<<< HEAD
  Veja aqui  . Se eu modificar aqui dá certo?
+=======
+Veja aqui .
+>>>>>>> 16d971ec32ed3cfdcb678fdb9464fe61bd04e96c
 
 You can use the [editor on GitHub](https://github.com/ChristianDeBritto/socioatlas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+E se eu mudar AQUI?
 
 ## Markdown
 
