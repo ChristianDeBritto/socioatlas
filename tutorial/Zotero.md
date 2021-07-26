@@ -61,15 +61,10 @@ relacionados.
 
 
 
-![image-20210725144610729](C:\Users\chris\AppData\Roaming\Typora\typora-user-images\image-20210725144610729.png)
-
-
-
 Enfim, o Zotero apresenta uma interface bem simples 
 
 [^5 ]: Caso haja alguma dúvida, no menu que fica na parte superior da janela há uma opção de ’Ajuda’, ao clicá-la o usuário é direcionado a uma página *on-line* com tutoriais em diversas línguas ensinando a utilizar a ferramenta.
 
  e que consegue reunir de forma bem clara todas as informações bibliográficas necessárias. Também é
 possível incluir várias bibliotecas, com pastas e subpastas, inserir diversos marcadores, até mesmo destacando alguns com cores específicas, trazendo organização e facilidade de acesso até mesmo para grandes coleções6.
-
 
