@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "89c93e30a672644f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b05b90db82acbc30",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tutorial/SocioAtlas.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc0f410f354e29ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6579fae37b6b3a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "079f419ee0cdc597",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e2c051ba7d34e71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8dab0c27f1d8a4be",
+    "type": "split",
+    "children": [
+      {
+        "id": "52bc8b9c4a7afa09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6573fea8c420d169",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tutorial/SocioAtlas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b05b90db82acbc30",
+  "lastOpenFiles": [
+    "tutorial/SocioAtlas.md",
+    "tutorial/Zotero.md",
+    "Pasted image 20210810001510.png",
+    "tutorial/image-20210725225244768.png",
+    "Untitled.md",
+    "tutorial/SUMMARY.md",
+    "tutorial/Testando.md",
+    "tutorial/so-testando.md"
+  ]
+}

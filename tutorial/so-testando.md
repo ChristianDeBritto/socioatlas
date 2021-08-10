@@ -1,4 +1,0 @@
-# Só testando
-
-Opa teste!
-
